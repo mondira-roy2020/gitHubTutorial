@@ -33,9 +33,9 @@ If you were able to create your account and set up your environment successfully
 
 <img alt="empty repo screenshot" src="images/emptyRepoScreen.png" width="500">
 
-**3.** I'm on a Mac, so I am going to open up my terminal (Windows please open your Command Prompt). Here is a screenshot of my terminal which will be followed by an explanation of each line.
+**3.** I'm on Windows, so I am going to open up my command prompt (Mac Users please open your terminal). Here is a screenshot of my command prompt which will be followed by an explanation of each line.
 
-<img alt="image of mac terminal with commands" src="images/screenshotOfTerminal.png" width="500">
+<img alt="image of windows cmd with commands" src="images/screenshotOfTerminal.png" width="500">
 
 **4.** Feel free to open up this image in a new tab because I'm going to continue referencing it in the next few paragraphs. When you boot up your terminal. You are encouraged to follow along on your own computer.
 
